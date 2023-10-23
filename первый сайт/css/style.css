@@ -1,0 +1,32 @@
+body{
+	font-family: 'Pixelify Sans', cursive;
+	background-color: #7eace0;
+	background-image: url(../img/херобрин.png);
+	background-position: center;
+	background-size: cover;
+}
+h1{
+	font-size: 70px;
+	color: #e0263c;
+	text-align: center;
+}
+h2{
+	font-size: 50px;
+	color: #2615e8;
+	text-align: ;
+}
+h3{
+	font-size: 100px;
+	color: #3bd415;
+}
+p{
+	font-size: 30px;
+	color: #ffe70d;
+}
+img{
+	width: 800px;
+	height: 500px;
+}
+div{
+
+}
