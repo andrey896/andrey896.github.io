@@ -1,0 +1,33 @@
+.main{
+	column-count: 4;
+	column-gap: 1;
+	width: 90%;
+	margin: auto;
+	background-color: grey;
+	padding-right: 10px;
+	padding-left: 10px;
+	box-shadow: 0 0 50px 10px grey;
+}
+.image{
+	max-width: 100%;
+	display: block;
+	transition: 10s;
+}
+.image + .image{
+	margin: 5px;
+}
+
+body{
+	background-color: brown;
+}
+
+	.heading{
+		color: green;
+		font-size: 60px;
+		width: 100%;
+		text-align: center;
+		font-family: 'Lobster', sans-serif;
+}
+.image:hover{
+	filter:blur(400000px);
+}
